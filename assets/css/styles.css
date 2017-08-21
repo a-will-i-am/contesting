@@ -1,0 +1,57 @@
+h1, h2, h3, h4, h5 {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+div.topBar {
+  background-color: black;
+  height: 40px;
+}
+/*White space*/
+
+.page-footer {
+  margin-top:0px;
+}
+
+.button1 {
+  padding-left: 30px;
+}
+
+.logo {
+  font-weight: 300;
+  font-size: 25px;
+  padding-left: 10px;
+}
+
+.thin-text {
+  background: rgba(96, 125, 139, .4);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.container-form {
+  padding-top: 30px;
+  padding-left: 20px;
+}
+
+/* Gallery .html */
+.int-in {
+  padding-top: 15px;
+}
+
+.ext-in {
+  padding-top: 15px;
+}
+
+.exterior {
+  padding-top: 20px;
+}
+
+/*about html*/
+.mid_text {
+  padding: 10px;
+}
+.mid_bar {
+}
+
+p.big {
+    line-height: 220%;
+}
